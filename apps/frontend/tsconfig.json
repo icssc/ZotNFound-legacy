@@ -15,5 +15,5 @@
     ".next/types/**/*.ts",
     "src/app/(home)/page.jsx"
   ],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "sst.config.ts"]
 }
